@@ -1,0 +1,28 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('images/background.png');
+    color: #333;
+  }
+  
+  header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  section {
+    padding: 20px;
+  }
+  
